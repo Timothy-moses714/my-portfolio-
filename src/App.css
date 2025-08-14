@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  background-color: #265eb9; 
+  color: white;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+section {
+  padding: 2rem 1rem;
+  max-width: 900px;
+  margin: 0 auto;
+  border-bottom: 1px solid #e5e7eb;
+}
+section .mv3{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #1f2937;
+}
+
+p {
+  line-height: 1.6;
+  font-size: 1.1rem;
+}
+
+.project-card {
+  
+  background-color: #ffffff;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.project-card h3 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #111827;
+}
+
+.project-card span {
+  display: inline-block;
+  font-size: 0.9rem;
+  color: #6b7280;
+  margin-bottom: 0.5rem;
+}
+
+footer {
+  text-align: left;
+  padding: 2rem 1rem;
+  font-size: 0.5em;
+  color: #6b7280;
+}
