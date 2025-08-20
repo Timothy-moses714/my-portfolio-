@@ -1,13 +1,15 @@
-import React from "react";
+import React from 'react';
 
 const Footer = () => {
-    return(
-      <footer>
-        <p className=" gray">
-        &copy;{new Date().getFullYear()}rightReversed <br></br>
-        <a href='emailto:timoajiji@gmail.com'>timoajiji@gmail.com</a>
-        </p>
-      </footer>
-    )
+  return (
+    <footer className="footer-section">
+      <p>&copy; {new Date().getFullYear()} Moses Timothy. All rights reserved.</p>
+      <div className="footer-links">
+        <a href="https://github.com/Timothy-moses714" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="mailto:timoajiji@gmail.com">Email</a>
+      </div>
+    </footer>
+  );
 };
+
 export default Footer;
