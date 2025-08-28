@@ -28,7 +28,7 @@ const About = () => {
             <label>JavaScript</label>
             <input type="range" min="0" max="100" value="65" readOnly />
             <label>React</label>
-            <input type="range" min="0" max="100" value="35" readOnly />
+            <input type="range" min="0" max="100" value="45" readOnly />
             
           </div>
         </div>

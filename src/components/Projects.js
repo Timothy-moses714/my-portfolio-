@@ -55,6 +55,12 @@ const Projects = () => {
       desc: 'Movie app for entertainment',
       link: 'https://netflix-clone-hazel-rho.vercel.app/'
     },
+    { 
+      title: 'E-Commerce Website (Shopster)', 
+      image: solo,
+      desc: 'Shopster will serve you better',
+      link: 'https://e-commerce-project-five-theta.vercel.app/'
+    },
   ];
 
   return (
