@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <section id="contact" className="contact-section animate-on-scroll" ref={contactRef}>
       <h2>Contact Me</h2>
-      <p>Feel free to connect with me or reach out directly.</p>
+      <p>Feel free to connect with me or reach out directly via.</p>
       <ul>
         <li>
           Github: <br />
